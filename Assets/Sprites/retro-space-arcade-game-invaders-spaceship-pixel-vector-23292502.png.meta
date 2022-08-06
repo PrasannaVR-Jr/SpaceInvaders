@@ -1,0 +1,3552 @@
+fileFormatVersion: 2
+guid: 23f730873b67b3c439046465d85b2b1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5640521663849059007
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_0
+  - first:
+      213: -6558668498532203346
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_1
+  - first:
+      213: 578584632150418943
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_2
+  - first:
+      213: -6381907461322076859
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_3
+  - first:
+      213: -2353183391247538535
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_4
+  - first:
+      213: -6177218744156183446
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_5
+  - first:
+      213: -5545078862935463637
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_6
+  - first:
+      213: -1893103363262415415
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_7
+  - first:
+      213: 5090992035450051307
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_8
+  - first:
+      213: -3109677168098327602
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_9
+  - first:
+      213: -3036035045656011035
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_10
+  - first:
+      213: 8719486657827937211
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_11
+  - first:
+      213: -3360415898223199994
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_12
+  - first:
+      213: 217138139482150914
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_13
+  - first:
+      213: 3967659966016233725
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_14
+  - first:
+      213: 2579708772019864402
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_15
+  - first:
+      213: -5726162296909371119
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_16
+  - first:
+      213: -265472648741734943
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_17
+  - first:
+      213: -1057072203218474103
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_18
+  - first:
+      213: 8904139900630328587
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_19
+  - first:
+      213: 100687122228699610
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_20
+  - first:
+      213: 8445246042338069885
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_21
+  - first:
+      213: 1276271744965776718
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_22
+  - first:
+      213: -1325509404957713526
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_23
+  - first:
+      213: 3458402192465294040
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_24
+  - first:
+      213: -2070641238405073071
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_25
+  - first:
+      213: 5302504570963323249
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_26
+  - first:
+      213: -5551809679433009398
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_27
+  - first:
+      213: -3719622977418732573
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_28
+  - first:
+      213: 5488700148883188757
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_29
+  - first:
+      213: 5143666159863624236
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_30
+  - first:
+      213: 8606502365720420573
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_31
+  - first:
+      213: -1935351923020058243
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_32
+  - first:
+      213: -4553979512291078401
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_33
+  - first:
+      213: -2707375179709579246
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_34
+  - first:
+      213: -1837838709865208777
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_35
+  - first:
+      213: 487588735037446163
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_36
+  - first:
+      213: 6486823964536947504
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_37
+  - first:
+      213: -2664552681392260519
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_38
+  - first:
+      213: 5551980817145272313
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_39
+  - first:
+      213: 8445093068081510677
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_40
+  - first:
+      213: 622302111693468349
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_41
+  - first:
+      213: -1289567519031687893
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_42
+  - first:
+      213: -7109927692882599045
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_43
+  - first:
+      213: 5446562039514134500
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_44
+  - first:
+      213: -2547591320409755357
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_45
+  - first:
+      213: 1432388834917839845
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_46
+  - first:
+      213: -2912012565761007114
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_47
+  - first:
+      213: -1475203624918642408
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_48
+  - first:
+      213: 5266408227161279671
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_49
+  - first:
+      213: 7491447482552905724
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_50
+  - first:
+      213: 6678759207607471874
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_51
+  - first:
+      213: -2179453041647332156
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_52
+  - first:
+      213: -7699269019100780421
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_53
+  - first:
+      213: 4851112217870563929
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_54
+  - first:
+      213: -6553758526942936593
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_55
+  - first:
+      213: 2544538896504701000
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_56
+  - first:
+      213: -7598275112229209724
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_57
+  - first:
+      213: 4925926804676608908
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_58
+  - first:
+      213: 2449031932011110157
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_59
+  - first:
+      213: 5699189303545695853
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_60
+  - first:
+      213: 1182463420987541798
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_61
+  - first:
+      213: -3064333842114275521
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_62
+  - first:
+      213: 7753353389344710239
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_63
+  - first:
+      213: 6843281434800265273
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_64
+  - first:
+      213: -2808321978206536142
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_65
+  - first:
+      213: 7225514583532314671
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_66
+  - first:
+      213: 9095606887608423959
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_67
+  - first:
+      213: 450034613125477937
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_68
+  - first:
+      213: -6130698872369160711
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_69
+  - first:
+      213: -864791615685118935
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_70
+  - first:
+      213: -5717947875650821830
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_71
+  - first:
+      213: -7134735670182992704
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_72
+  - first:
+      213: 6298592107517822762
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_73
+  - first:
+      213: 8790580609165701726
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_74
+  - first:
+      213: -3738191394828602353
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_75
+  - first:
+      213: 3760283703389321746
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_76
+  - first:
+      213: 5896042392239734744
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_77
+  - first:
+      213: 5719507188347300143
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_78
+  - first:
+      213: -7090628031918393266
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_79
+  - first:
+      213: 3775558756175940245
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_80
+  - first:
+      213: -2133046101204897381
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_81
+  - first:
+      213: -9181089823423408393
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_82
+  - first:
+      213: 9004362643577521345
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_83
+  - first:
+      213: -3227291308571650191
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_84
+  - first:
+      213: 6621063361725181703
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_85
+  - first:
+      213: -5732946277840990028
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_86
+  - first:
+      213: 1934414024953778077
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_87
+  - first:
+      213: 3567592804057307349
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_88
+  - first:
+      213: -8444501038333107747
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_89
+  - first:
+      213: 7763827932486782583
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_90
+  - first:
+      213: -8128748135848443360
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_91
+  - first:
+      213: 3524955469724973792
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_92
+  - first:
+      213: -283590322641497210
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_93
+  - first:
+      213: 6866537197065135330
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_94
+  - first:
+      213: -3514462071062645892
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_95
+  - first:
+      213: -2505308650595777909
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_96
+  - first:
+      213: -7075186141893180651
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_97
+  - first:
+      213: 212238034677751182
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_98
+  - first:
+      213: -6185929237950061135
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_99
+  - first:
+      213: -7709129959974092962
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_100
+  - first:
+      213: -7755046909393365037
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_101
+  - first:
+      213: 3483170528477137217
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_102
+  - first:
+      213: -7243728950429342600
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_103
+  - first:
+      213: 5319498200699409254
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_104
+  - first:
+      213: -442494795757395941
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_105
+  - first:
+      213: -8646567725008647527
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_106
+  - first:
+      213: 5819650584745464162
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_107
+  - first:
+      213: 8790898209283694522
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_108
+  - first:
+      213: -8685701700884890218
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_109
+  - first:
+      213: 1297453938671161650
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_110
+  - first:
+      213: 5459381547279760522
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_111
+  - first:
+      213: -4438954363783017567
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_112
+  - first:
+      213: -795281454148921120
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_113
+  - first:
+      213: -4534825285434991281
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_114
+  - first:
+      213: -6020486353587434982
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_115
+  - first:
+      213: 5011901640901392733
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_116
+  - first:
+      213: -4977372419175645505
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_117
+  - first:
+      213: 599805901862508570
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_118
+  - first:
+      213: -7628562513898780197
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_119
+  - first:
+      213: -3889740288897225795
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_120
+  - first:
+      213: -8278287531294241817
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_121
+  - first:
+      213: -2979788812886583602
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_123
+  - first:
+      213: -6096099720936963551
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_124
+  - first:
+      213: 6241346510922683454
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_125
+  - first:
+      213: 3247707022277784074
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_126
+  - first:
+      213: -6769438590623378753
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_127
+  - first:
+      213: -6205302666345455024
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_128
+  - first:
+      213: 430875839890890275
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_129
+  - first:
+      213: -2638269594800470580
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_130
+  - first:
+      213: 6729957032022279135
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_131
+  - first:
+      213: -6835165592724948599
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_132
+  - first:
+      213: -1491918894615940779
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_133
+  - first:
+      213: -5714780491506982421
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_134
+  - first:
+      213: 8862875004159740286
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_135
+  - first:
+      213: 423139858435176582
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_136
+  - first:
+      213: 8842918756159489906
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_137
+  - first:
+      213: -8710423630257629850
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_138
+  - first:
+      213: -5884769793634033657
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_140
+  - first:
+      213: -3230436002340055009
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_141
+  - first:
+      213: 2742660199432945073
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_142
+  - first:
+      213: 1692303970975113299
+    second: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 940
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da1667e67d8b1b0800000000000000
+      internalID: -5640521663849059007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 865
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48179ffbdeaf4a0800000000000000
+      internalID: -6558668498532203346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 945
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff563df48ab870800800000000000000
+      internalID: 578584632150418943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 873
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8b7a0af8ee67a0800000000000000
+      internalID: -6381907461322076859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 873
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99667516c20d75fd0800000000000000
+      internalID: -2353183391247538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 892
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64afaec74c164aa0800000000000000
+      internalID: -6177218744156183446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 932
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29643b372ceb03b0800000000000000
+      internalID: -5545078862935463637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 878
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd75ad65885ab5e0800000000000000
+      internalID: -1893103363262415415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 878
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead7537846d6a640800000000000000
+      internalID: 5090992035450051307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 878
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34b55671538d4d0800000000000000
+      internalID: -3109677168098327602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 878
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee590a2636ddd5d0800000000000000
+      internalID: -3036035045656011035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 887
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb979fdae6d10970800000000000000
+      internalID: 8719486657827937211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 892
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b4d87b876d51d0800000000000000
+      internalID: -3360415898223199994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 883
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d507ccfd630300800000000000000
+      internalID: 217138139482150914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 719
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0afefa7b5ff0730800000000000000
+      internalID: 3967659966016233725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 719
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530434d577fcc320800000000000000
+      internalID: 2579708772019864402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 783
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196b7ebab59880b0800000000000000
+      internalID: -5726162296909371119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 783
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ba22580ad05cf0800000000000000
+      internalID: -265472648741734943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 745
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b29398e668451f0800000000000000
+      internalID: -1057072203218474103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 765
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e37f301cd19b70800000000000000
+      internalID: 8904139900630328587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 755
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e5e97766b56100800000000000000
+      internalID: 100687122228699610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_21
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 755
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d855ad78a833570800000000000000
+      internalID: 8445246042338069885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 732
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459d8bd36a36b110800000000000000
+      internalID: 1276271744965776718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 732
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5e031838da9de0800000000000000
+      internalID: -1325509404957713526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 685
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2735c7876beff20800000000000000
+      internalID: 3458402192465294040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_25
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 685
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157379fa3ca9343e0800000000000000
+      internalID: -2070641238405073071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 686
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179672c30d7469940800000000000000
+      internalID: 5302504570963323249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 565
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f1d4e28204f2b0800000000000000
+      internalID: -5551809679433009398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 565
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb53940c9e316cc0800000000000000
+      internalID: -3719622977418732573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 611
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce0dc74b7cb2c40800000000000000
+      internalID: 5488700148883188757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 647
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227eddbe19f16740800000000000000
+      internalID: 5143666159863624236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 646
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0235b6d40707770800000000000000
+      internalID: 8606502365720420573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_32
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 647
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7135011eaf3425e0800000000000000
+      internalID: -1935351923020058243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_33
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 626
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffecb77f2c30dc0c0800000000000000
+      internalID: -4553979512291078401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 617
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21083bb4e987d6ad0800000000000000
+      internalID: -2707375179709579246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 626
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a5004e6fae76e0800000000000000
+      internalID: -1837838709865208777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 639
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31893640f5344c600800000000000000
+      internalID: 487588735037446163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 619
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03347bee604d50a50800000000000000
+      internalID: 6486823964536947504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 608
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95abc44247b950bd0800000000000000
+      internalID: -2664552681392260519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 581
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f71ab533299c0d40800000000000000
+      internalID: 5551980817145272313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_40
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 565
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519bc12c66ff23570800000000000000
+      internalID: 8445093068081510677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 481
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f676397cd2a800800000000000000
+      internalID: 622302111693468349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_42
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 492
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250c328c298a1ee0800000000000000
+      internalID: -1289567519031687893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 537
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73250fee66745d90800000000000000
+      internalID: -7109927692882599045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 537
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7fd5c5153169b40800000000000000
+      internalID: 5446562039514134500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 538
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321bb1a113325acd0800000000000000
+      internalID: -2547591320409755357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_46
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 537
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e373856e0ed0e310800000000000000
+      internalID: 1432388834917839845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 537
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1675cfff37697d0800000000000000
+      internalID: -2912012565761007114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_48
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 520
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111b5d7e16078be0800000000000000
+      internalID: -1475203624918642408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 509
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc8426416a061940800000000000000
+      internalID: 5266408227161279671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_50
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 518
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff6f034bc7f6f760800000000000000
+      internalID: 7491447482552905724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 518
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f00dd1d18bfac50800000000000000
+      internalID: 6678759207607471874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_52
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 506
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c457ff710701c1e0800000000000000
+      internalID: -2179453041647332156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_53
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 518
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e35e9e93b62590800000000000000
+      internalID: -7699269019100780421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_54
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 518
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7bbf1cdc925340800000000000000
+      internalID: 4851112217870563929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 411
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe101e1d75f5c05a0800000000000000
+      internalID: -6553758526942936593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 412
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c35315a4005320800000000000000
+      internalID: 2544538896504701000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_57
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 500
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f2e5fa018d8690800000000000000
+      internalID: -7598275112229209724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_58
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 499
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83035684586c5440800000000000000
+      internalID: 4925926804676608908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_59
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 499
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5c1f0195bcf120800000000000000
+      internalID: 2449031932011110157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 499
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e0c89d976971f40800000000000000
+      internalID: 5699189303545695853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_61
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 473
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6290bd76734f86010800000000000000
+      internalID: 1182463420987541798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 473
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37129b2b9c4975d0800000000000000
+      internalID: -3064333842114275521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 480
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e56fd14d1799b60800000000000000
+      internalID: 7753353389344710239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9389b4b253838fe50800000000000000
+      internalID: 6843281434800265273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_65
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 480
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb31a3a06d609d0800000000000000
+      internalID: -2808321978206536142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_66
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 480
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2029d63b3f264460800000000000000
+      internalID: 7225514583532314671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_67
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 470
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161f7016461a3e70800000000000000
+      internalID: 9095606887608423959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_68
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 466
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13679f3a818de3600800000000000000
+      internalID: 450034613125477937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_69
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 456
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5c8f7bd16beaa0800000000000000
+      internalID: -6130698872369160711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243a5e7b94aff3f0800000000000000
+      internalID: -864791615685118935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_71
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 461
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3122abb3b4c5a0b0800000000000000
+      internalID: -5717947875650821830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_72
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 454
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42f6c95b35cfc90800000000000000
+      internalID: -7134735670182992704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_73
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 461
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27cda18628196750800000000000000
+      internalID: 6298592107517822762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_74
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 461
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5232c25d7a6ef970800000000000000
+      internalID: 8790580609165701726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 443
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b1d07bb64f1cc0800000000000000
+      internalID: -3738191394828602353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_76
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 443
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af53bfa163f2430800000000000000
+      internalID: 3760283703389321746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 443
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff7123153f2d150800000000000000
+      internalID: 5896042392239734744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 443
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ebbb0c75cf5f40800000000000000
+      internalID: 5719507188347300143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_79
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 421
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b31b6f57099d90800000000000000
+      internalID: -7090628031918393266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_80
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 424
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8b7a5faa756430800000000000000
+      internalID: 3775558756175940245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_81
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 424
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9176205fd5e562e0800000000000000
+      internalID: -2133046101204897381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_82
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 432
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d4e7f277369080800000000000000
+      internalID: -9181089823423408393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 424
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c44c3ffd1ce5fc70800000000000000
+      internalID: 9004362643577521345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_84
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 424
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17791ed57ab5633d0800000000000000
+      internalID: -3227291308571650191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_85
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 402
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fabfe2c0eb2eb50800000000000000
+      internalID: 6621063361725181703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_86
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 405
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d3e81cbb7070b0800000000000000
+      internalID: -5732946277840990028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_87
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 401
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f47e58e4b68da10800000000000000
+      internalID: 1934414024953778077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_88
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 405
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8531dd0c2a28130800000000000000
+      internalID: 3567592804057307349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_89
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 405
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ecb8eb0b1fca80800000000000000
+      internalID: -8444501038333107747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 392
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e412dbe58aebb60800000000000000
+      internalID: 7763827932486782583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_91
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 267
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022822e63a2e03f80800000000000000
+      internalID: -8128748135848443360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_92
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 387
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf60ed2582be030800000000000000
+      internalID: 3524955469724973792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_93
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6831735aa1c701cf0800000000000000
+      internalID: -283590322641497210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_94
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4e2144337da4f50800000000000000
+      internalID: 6866537197065135330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_95
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c733ab5ed5f1a3fc0800000000000000
+      internalID: -3514462071062645892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_96
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 372
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8286845e0b5b3dd0800000000000000
+      internalID: -2505308650595777909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_97
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 257
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c0bc90b3efcd90800000000000000
+      internalID: -7075186141893180651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_98
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5bc83e5502f200800000000000000
+      internalID: 212238034677751182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_99
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a84ee12a272aa0800000000000000
+      internalID: -6185929237950061135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_100
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 367
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3c68652ba30590800000000000000
+      internalID: -7709129959974092962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_101
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 367
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71e158ce9806490800000000000000
+      internalID: -7755046909393365037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_102
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 367
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494df91425b65030800000000000000
+      internalID: 3483170528477137217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_103
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 259
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874227406ea197b90800000000000000
+      internalID: -7243728950429342600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 258
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663940cfd67a2d940800000000000000
+      internalID: 5319498200699409254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_105
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 348
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ebe3e351fbd9f0800000000000000
+      internalID: -442494795757395941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_106
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 349
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a80803778310880800000000000000
+      internalID: -8646567725008647527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_107
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 349
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d5ac7f5d83c050800000000000000
+      internalID: 5819650584745464162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_108
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 348
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd8fc585b8ff970800000000000000
+      internalID: 8790898209283694522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_109
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 348
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dffb56250367780800000000000000
+      internalID: -8685701700884890218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_110
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 349
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311de6ab7b710210800000000000000
+      internalID: 1297453938671161650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_111
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 323
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cbeea979e93cb40800000000000000
+      internalID: 5459381547279760522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_112
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 329
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab0b84568aa562c0800000000000000
+      internalID: -4438954363783017567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_113
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 330
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85ff42bb796f4f0800000000000000
+      internalID: -795281454148921120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_114
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 326
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d103fed601111c0800000000000000
+      internalID: -4534825285434991281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_115
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 330
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a855f2f8fe27ca0800000000000000
+      internalID: -6020486353587434982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_116
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 329
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59ff1bfcf9dd8540800000000000000
+      internalID: 5011901640901392733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_117
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 312
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7530f722dceab0800000000000000
+      internalID: -4977372419175645505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_118
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1892b23a40f25800800000000000000
+      internalID: 599805901862508570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_119
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 296
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c33cbfc6e12690800000000000000
+      internalID: -7628562513898780197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_120
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb61c3e0ddd40ac0800000000000000
+      internalID: -3889740288897225795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_121
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb49acb95d9d1d80800000000000000
+      internalID: -8278287531294241817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_123
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 293
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6563ebcd9a5a6d0800000000000000
+      internalID: -2979788812886583602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_124
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c1323a9d466ba0800000000000000
+      internalID: -6096099720936963551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349ba76597bd9650800000000000000
+      internalID: 6241346510922683454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_126
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02b865645c221d20800000000000000
+      internalID: 3247707022277784074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_127
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 274
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29215c77f1e02a0800000000000000
+      internalID: -6769438590623378753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_128
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e1b02a1652e9a0800000000000000
+      internalID: -6205302666345455024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_129
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 273
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9ef22b47caf500800000000000000
+      internalID: 430875839890890275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_130
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5443c18cbf26bd0800000000000000
+      internalID: -2638269594800470580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_131
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38457834c956d50800000000000000
+      internalID: 6729957032022279135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_132
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98938a09b1d9421a0800000000000000
+      internalID: -6835165592724948599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_133
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 259
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55139bc7ba3ab4be0800000000000000
+      internalID: -1491918894615940779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 49
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e462db6501b0b0800000000000000
+      internalID: -5714780491506982421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_135
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 90
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7941a7dbd14ffa70800000000000000
+      internalID: 8862875004159740286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_136
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 90
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887658957b4fd500800000000000000
+      internalID: 423139858435176582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_137
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 90
+        width: 135
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778686c1cb58ba70800000000000000
+      internalID: 8842918756159489906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_138
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 90
+        width: 187
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665535babdb5e1780800000000000000
+      internalID: -8710423630257629850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ae713d09155ea0800000000000000
+      internalID: -5884769793634033657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1853ea429f2b23d0800000000000000
+      internalID: -3230436002340055009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_142
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 45
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd7dce8be2ef0620800000000000000
+      internalID: 2742660199432945073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro-space-arcade-game-invaders-spaceship-pixel-vector-23292502_143
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 45
+        width: 100
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35064f1de754c7710800000000000000
+      internalID: 1692303970975113299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
